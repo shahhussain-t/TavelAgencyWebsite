@@ -134,7 +134,7 @@ li{
 
 .hero {
     position: relative;
-    background-image: url('/images/donald-giannatti-7ne3hNnojvU-unsplash.jpg');
+    background-image: url('../images/donald-giannatti-7ne3hNnojvU-unsplash.jpg');
 
     background-size: cover;
     height: 750px;
@@ -572,13 +572,13 @@ display: flex;
 .top_hotel-left1
 {
 
-    background-image: url('/images/oasis.jpg');
+    background-image: url('../images/oasis.jpg');
    
 }
 
 .top_hotel-left2
 {
-    background-image: url('/images/neelam.jpg');
+    background-image: url('../images/neelam.jpg');
  
 }
 
@@ -586,10 +586,10 @@ display: flex;
     margin-left: 5px;
 }
 .top_hotel-right1{
-    background-image: url('/images/jaipur.jpg');
+    background-image: url('../images/jaipur.jpg');
 }
 .top_hotel-right2{
-    background-image: url('/images/hunza.jpg');
+    background-image: url('../images/hunza.jpg');
 }
 
 .top_hotel-box{
@@ -600,7 +600,7 @@ display: flex;
 .top_hotel-middle{
 
     position: relative;
-    background-image: url('/images/tajmahal.jpg');
+    background-image: url('../images/tajmahal.jpg');
     /* height: 805px; */
     width: 40%;
     /* height:40.2rem ;
@@ -619,7 +619,7 @@ display: flex;
     
 }
 .tavle_banner-img{
-    background-image: url('/images/travel2.jpg');
+    background-image: url('../images/travel2.jpg');
     background-repeat: no-repeat;
     width:90rem;
     height: 400px;
@@ -708,11 +708,11 @@ margin-top: 10px;
 
 
 .best_choices-img1{
-    background-image: url('/images/hunza.jpg');
+    background-image: url('../images/hunza.jpg');
 
 }
 .best_choices-img2{
-    background-image: url('/images/jaipur.jpg');
+    background-image: url('../images/jaipur.jpg');
 
 }
 
